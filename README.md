@@ -19,12 +19,15 @@ I'm Daegwon who is dreaming of becoming a backend developer 😀
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/Daegwon-Kim)  
+  
+- 🔭 I’m currently working on [this](https://github.com/Daegwon-Kim)  
   
 
-- 🌱 I’m currently learning Spring and DataBase
+- 🌱 I’m currently learning Java and Spring  
+  
 
+-  👍 Please, visit my [blog](daegwonkim.tistory.com
+) and see more activities  
 
 </td><td valign="top" width="50%">
 
