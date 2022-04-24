@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <a href="daegwonkim.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-FFCD00?style=flat-square&logo=Kakao&logoColor=white"/></a>
+![trophy](https://github-profile-trophy.vercel.app/?username=Daegwon-Kim)
