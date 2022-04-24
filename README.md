@@ -23,7 +23,7 @@ I'm Daegwon who is dreaming of becoming a backend developer 😀
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/Daegwon-Kim)  
   
 
-- 🌱 I’m currently learning Java and Spring  
+- 🌱 I’m currently learning Spring and DataBase
 
 
 </td><td valign="top" width="50%">
