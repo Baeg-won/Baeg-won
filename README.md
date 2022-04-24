@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Welcome&fontSize=90)
 <a href="daegwonkim.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-FFCD00?style=flat-square&logo=Kakao&logoColor=white"/></a>
 <br>
 ![trophy](https://github-profile-trophy.vercel.app/?username=Daegwon-Kim)
