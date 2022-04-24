@@ -5,7 +5,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 <a href="daegwonkim.tistory.com" target="_blank">
-<img src=https://img.shields.io/badge/Blog-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Blog-%2324292e.svg?&style=for-the-badge&logo=Kakao&logoColor=white alt=kakao style="margin-bottom: 5px;" />
 </a>  
 
 
