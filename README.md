@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="daegwonkim.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-FECC00?style=flat-square&logo=AlloCiné&logoColor=white"/></a>
+<a href="daegwonkim.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-FFCD00?style=flat-square&logo=Kakao&logoColor=white"/></a>
