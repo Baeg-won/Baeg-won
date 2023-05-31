@@ -21,13 +21,10 @@ markdown_text = """
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
 
 <br/>
-<br/>
-
-#### :pencil2: Study log
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baeg-won&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## ✅ Latest Blog Post
+#### :pencil2: Study log
 
 """  # list of blog posts will be appended here
 
@@ -36,7 +33,7 @@ for idx, feed in enumerate(RSS_FEED['entries']):
         break
     else:
         feed_date = feed['published_parsed']
-        markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) </div>"
+        markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) <br/>\n"
         
 f = open("README.md", mode="w", encoding="utf-8")
 f.write(markdown_text)
