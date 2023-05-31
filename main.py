@@ -14,7 +14,7 @@ markdown_text = """
 <br/>
 
 ####  :star: Tech & Daily Blog
-<img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=Blog&logoColor=white"/>
+<a href="https://daegwonkim.tistory.com/"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>
 
 <br/>
 <br/>
