@@ -29,6 +29,8 @@ markdown_text = """
 
 </div>
 
+<br/>
+
 ## ✅ Latest Blog Post
 
 """  # list of blog posts will be appended here
