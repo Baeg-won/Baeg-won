@@ -1,67 +1,27 @@
 <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=waving&text=Baeg-won)  
-</div>
-
-### 찾아주셔서 감사합니다!  
-저는 백엔드 개발자를 꿈꾸고 있는 Baeg-won입니다. 😀  
   
+  ####  :wave: Welcome my github profile !
 
-<br/>  
-
-
-## Rapidfire  
-<table>
-  <tr>
-    <td valign="top" width="50%">
   
-- 저는 현재 이곳 깃허브에서 프로젝트 및 포트폴리오를 관리하고 있습니다.
+ <br/>
+ <br/>
   
-
-- 또한 ☕Java와 🍃Spring, Spring Boot에 대해 공부중이며 블로그에 프로젝트 개발 과정 및 공부 내용을 정리하고 있습니다.
+####  :clipboard: Once I've Used 
+  
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
  
-
-- 저의 💻[블로그](https://daegwonkim.tistory.com)에 방문하시면 더 자세한 내용을 확인하실 수 있습니다.
-
-    </td>
-  </tr>
-</table>  
-<br/>  
-
-## Languages and Tools  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="75" />  
-</div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Daegwon-Kim&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daegwon-Kim&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
+   <br/>
+   <br/>
+ 
+#### :pencil2: Study log
   
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=Daegwon-Kim&&style=flat-square)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@somm)
+</div>
+</div>
