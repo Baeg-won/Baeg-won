@@ -17,11 +17,13 @@
 <br/>
 <br/>
 
+#### :pencil: Study Log
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baeg-won&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
-#### :pencil2: Study log
+## ✅ Latest Blog Post
 
 [2023/05/29 - [Tech Interview] Part 5. Network](https://daegwonkim.tistory.com/434) <br/>
 [2023/05/24 - [Tech Interview] Part 4. Algorithm](https://daegwonkim.tistory.com/433) <br/>
