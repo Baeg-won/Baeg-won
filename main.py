@@ -23,11 +23,13 @@ markdown_text = """
 <br/>
 <br/>
 
+#### :pencil: Study Log
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baeg-won&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
-#### :pencil2: Study log
+## ✅ Latest Blog Post
 
 """  # list of blog posts will be appended here
 
