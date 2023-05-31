@@ -34,7 +34,7 @@ jobs:
         git pull
         git add .
         git diff
-        git config --local user.email "https://github.com/Baeg-won"
+        git config --local user.email "kdg1449@naver.com"
         git config --local user.name "Baeg-won"
         git commit -m "Updating Blog Posts"
         git push
