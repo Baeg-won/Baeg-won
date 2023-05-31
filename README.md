@@ -6,7 +6,6 @@
 ####  :wave: Welcome my github profile !
   
 <br/>
-<br/>
   
 ####  :clipboard: Once I've Used
 
@@ -20,15 +19,8 @@
 
 #### :pencil2: Study log
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baeg-won&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baeg-won&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ✅ Latest Blog Post
 
-[2023/05/29 - [Tech Interview] Part 5. Network](https://daegwonkim.tistory.com/434) <br/>
-[2023/05/24 - [Tech Interview] Part 4. Algorithm](https://daegwonkim.tistory.com/433) <br/>
-[2023/05/22 - [Tech Interview] Part 3. Data Structure](https://daegwonkim.tistory.com/432) <br/>
-[2023/05/21 - [Tech Interview] Part 2. Database](https://daegwonkim.tistory.com/431) <br/>
-[2023/05/20 - [Spring MVC] 1. 웹 애플리케이션 이해](https://daegwonkim.tistory.com/430) <br/>
-[2023/05/18 - [Tech Interview] Part 1. Java](https://daegwonkim.tistory.com/429) <br/>
+[2023/05/29 - [Tech Interview] Part 5. Network](https://daegwonkim.tistory.com/434) </div>[2023/05/24 - [Tech Interview] Part 4. Algorithm](https://daegwonkim.tistory.com/433) </div>[2023/05/22 - [Tech Interview] Part 3. Data Structure](https://daegwonkim.tistory.com/432) </div>[2023/05/21 - [Tech Interview] Part 2. Database](https://daegwonkim.tistory.com/431) </div>[2023/05/20 - [Spring MVC] 1. 웹 애플리케이션 이해](https://daegwonkim.tistory.com/430) </div>[2023/05/18 - [Tech Interview] Part 1. Java](https://daegwonkim.tistory.com/429) </div>
