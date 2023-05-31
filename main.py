@@ -4,9 +4,7 @@ URL = "https://daegwonkim.tistory.com/rss"
 RSS_FEED = feedparser.parse(URL)
 MAX_POST = 5
 
-markdown_text = 
-"""
-
+markdown_text = """
 <div align="center"> 
 
     ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=Baeg-won&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
