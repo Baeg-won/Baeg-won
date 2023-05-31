@@ -12,7 +12,6 @@ markdown_text = """
 ####  :wave: Welcome my github profile !
   
 <br/>
-<br/>
   
 ####  :clipboard: Once I've Used
 
@@ -26,9 +25,7 @@ markdown_text = """
 
 #### :pencil2: Study log
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baeg-won&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baeg-won&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ✅ Latest Blog Post
 
@@ -39,7 +36,7 @@ for idx, feed in enumerate(RSS_FEED['entries']):
         break
     else:
         feed_date = feed['published_parsed']
-        markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) <br/>\n"
+        markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) </div>"
         
 f = open("README.md", mode="w", encoding="utf-8")
 f.write(markdown_text)
