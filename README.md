@@ -29,9 +29,9 @@
 
 ## ✅ Latest Blog Post
 
+[2023/06/05 - [Tech Interview] Part 8. ETC](https://daegwonkim.tistory.com/441) <br/>
 [2023/06/04 - JPQL과 QueryDSL](https://daegwonkim.tistory.com/440) <br/>
 [2023/06/04 - JPA와 Hibernate 그리고 Spring Data JPA](https://daegwonkim.tistory.com/439) <br/>
 [2023/06/04 - Lombok이란?](https://daegwonkim.tistory.com/438) <br/>
 [2023/06/03 - Spring AOP(Aspect Oriented Programming)](https://daegwonkim.tistory.com/437) <br/>
 [2023/06/03 - [Tech Interview] Part 7. Back-End](https://daegwonkim.tistory.com/436) <br/>
-[2023/06/02 - [Tech Interview] Part 6. Operation System](https://daegwonkim.tistory.com/435) <br/>
