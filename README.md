@@ -29,9 +29,9 @@
 
 ## ✅ Latest Blog Post
 
+[2023/06/16 - [Spring MVC] 2. MVC 패턴](https://daegwonkim.tistory.com/447) <br/>
 [2023/06/13 - 더티 체킹(Dirty Checking)이란?](https://daegwonkim.tistory.com/446) <br/>
 [2023/06/13 - AJAX란?](https://daegwonkim.tistory.com/445) <br/>
 [2023/06/13 - RESTful API란?](https://daegwonkim.tistory.com/444) <br/>
 [2023/06/11 - CSRF란?](https://daegwonkim.tistory.com/443) <br/>
 [2023/06/06 - URI와 URL](https://daegwonkim.tistory.com/442) <br/>
-[2023/06/05 - [Tech Interview] Part 8. ETC](https://daegwonkim.tistory.com/441) <br/>
