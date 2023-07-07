@@ -29,9 +29,9 @@
 
 ## ✅ Latest Blog Post
 
+[2023/07/06 - [BWM] 2. SHOP 페이지 구현](https://daegwonkim.tistory.com/458) <br/>
 [2023/07/04 - [BWM] 1. 메인 페이지 구현](https://daegwonkim.tistory.com/457) <br/>
 [2023/07/02 - [BWM] 0. 프로젝트 개요](https://daegwonkim.tistory.com/455) <br/>
 [2023/06/30 - Vue.js & Spring Boot 연동 및 개발환경 구축](https://daegwonkim.tistory.com/454) <br/>
 [2023/06/24 - @RequestBody vs @ModelAttribute](https://daegwonkim.tistory.com/453) <br/>
 [2023/06/22 - [Spring MVC] 7. 스프링 MVC - 기본 기능(3)](https://daegwonkim.tistory.com/452) <br/>
-[2023/06/22 - [Spring MVC] 6. 스프링 MVC - 기본 기능(2)](https://daegwonkim.tistory.com/451) <br/>
