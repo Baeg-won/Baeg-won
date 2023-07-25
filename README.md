@@ -29,9 +29,9 @@
 
 ## ✅ Latest Blog Post
 
+[2023/07/24 - CascadeType.REMOVE vs @OnDelete(action = OnDeleteAction.CASCADE)](https://daegwonkim.tistory.com/466) <br/>
+[2023/07/24 - [Baeg-won Clothing Gallery] 7. CART 페이지 구현](https://daegwonkim.tistory.com/465) <br/>
 [2023/07/18 - @OneToMany 단방향](https://daegwonkim.tistory.com/464) <br/>
-[2023/07/16 - [BWM] 6. DETAIL 페이지 구현](https://daegwonkim.tistory.com/463) <br/>
-[2023/07/15 - [BWM] 5. SALE, CONTACT 페이지 구현](https://daegwonkim.tistory.com/462) <br/>
-[2023/07/14 - [BWM] 4. CLOTHING, FOOTWEAR, ACCESSORIES 페이지 구현](https://daegwonkim.tistory.com/461) <br/>
-[2023/07/09 - [Tech Interview] Part 9. Project](https://daegwonkim.tistory.com/460) <br/>
-[2023/07/08 - [BWM] 3. BRANDS 페이지 구현](https://daegwonkim.tistory.com/459) <br/>
+[2023/07/16 - [Baeg-won Clothing Gallery] 6. DETAIL 페이지 구현](https://daegwonkim.tistory.com/463) <br/>
+[2023/07/15 - [Baeg-won Clothing Gallery] 5. SALE, CONTACT 페이지 구현](https://daegwonkim.tistory.com/462) <br/>
+[2023/07/14 - [Baeg-won Clothing Gallery] 4. CLOTHING, FOOTWEAR, ACCESSORIES 페이지 구현](https://daegwonkim.tistory.com/461) <br/>
