@@ -29,9 +29,9 @@
 
 ## ✅ Latest Blog Post
 
+[2023/08/27 - [JavaScript 기초] 4. JavaScript 최신 문법(ES6, ES11)](https://daegwonkim.tistory.com/473) <br/>
 [2023/08/26 - [JavaScript 기초] 3. 비동기 처리(Callback, Promise, async/await)](https://daegwonkim.tistory.com/472) <br/>
 [2023/08/26 - [JavaScript 기초] 2. Variable](https://daegwonkim.tistory.com/471) <br/>
 [2023/08/26 - [JavaScript 기초] 1. async와 defer](https://daegwonkim.tistory.com/470) <br/>
 [2023/08/25 - [JavaScript 기초] 0. JavaScript의 역사와 현재](https://daegwonkim.tistory.com/469) <br/>
 [2023/07/31 - [Baeg-won Clothing Gallery] 9. PROFILE 페이지 구현](https://daegwonkim.tistory.com/468) <br/>
-[2023/07/28 - [Baeg-won Clothing Gallery] 8. WISH 페이지 구현](https://daegwonkim.tistory.com/467) <br/>
